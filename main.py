@@ -20,7 +20,7 @@ async def tool2(request: Request) -> dict:
 
     df = pd.merge(persons_df, university_df, left_on='uczelnia', right_on='id')
 
-    answer = df[df['nazwa'].str.contains(input_text, case=False)]
+    answer = df[df['nazwa'].str.contains(input_text, case=False, na=False)]
 
     output=[]
     if not answer.empty:
