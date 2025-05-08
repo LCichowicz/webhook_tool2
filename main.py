@@ -18,7 +18,7 @@ async def tool2(request: Request) -> dict:
     if input_text.startswith("test"):
         return {'output': input_text}
 
-    df = pd.merge(persons_df, university_df, on='uczelnia')
+    df = pd.merge(persons_df, university_df, left_on='uczelnia', right_on='id')
 
     answer = df[df['nazwa'].str.contains(input_text, case=False)]
 
