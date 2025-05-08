@@ -1,8 +1,8 @@
 from fastapi import FastAPI, Request
 import pandas as pd
 
-file_2 = '/data/osoby.json'
-file_3 = '/data/uczelnie.json'
+file_2 = 'data/osoby.json'
+file_3 = 'data/uczelnie.json'
 
 
 app = FastAPI()
