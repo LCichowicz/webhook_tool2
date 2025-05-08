@@ -15,7 +15,7 @@ async def tool2(request: Request) -> dict:
 
     data = await request.json()
     input_text = data.get('input', "")
-    if input_text.startswith("test"):
+    if input_text.startswith("test") or input_text == "":
         return {'output': input_text}
 
     df = pd.merge(persons_df, university_df, left_on='uczelnia', right_on='id')
