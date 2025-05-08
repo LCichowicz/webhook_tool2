@@ -1,0 +1,257 @@
+[
+    {
+      "id": "PSTFIL",
+      "nazwa": "Państwowa Wyższa Szkoła Filmowa",
+      "miasto": "Łódź"
+    },
+    {
+      "id": "AKAGUH",
+      "nazwa": "Akademia Górniczo-Hutnicza",
+      "miasto": "Kraków"
+    },
+    {
+      "id": "AMUWRO",
+      "nazwa": "Akademia Muzyczna",
+      "miasto": "Wrocław"
+    },
+    {
+      "id": "AMUMUZ",
+      "nazwa": "Akademia Muzyczna",
+      "miasto": "Kraków"
+    },
+    {
+      "id": "POLSLK",
+      "nazwa": "Politechnika Śląska",
+      "miasto": "Gliwice"
+    },
+    {
+      "id": "UNIWAR",
+      "nazwa": "Uniwersytet Warszawski",
+      "miasto": "Warszawa"
+    },
+    {
+      "id": "UNIPOZ",
+      "nazwa": "Uniwersytet im. Adama Mickiewicza",
+      "miasto": "Poznań"
+    },
+    {
+      "id": "UNIWRO",
+      "nazwa": "Uniwersytet Wrocławski",
+      "miasto": "Wrocław"
+    },
+    {
+      "id": "UNIMED",
+      "nazwa": "Uniwersytet Medyczny",
+      "miasto": "Warszawa"
+    },
+    {
+      "id": "UAMSIE",
+      "nazwa": "Uniwersytet Przyrodniczy",
+      "miasto": "Poznań"
+    },
+    {
+      "id": "UMLUBL",
+      "nazwa": "Uniwersytet Medyczny",
+      "miasto": "Lublin"
+    },
+    {
+      "id": "AWFWAR",
+      "nazwa": "Akademia Wychowania Fizycznego",
+      "miasto": "Warszawa"
+    },
+    {
+      "id": "UMKLUB",
+      "nazwa": "Uniwersytet Marii Curie-Skłodowskiej",
+      "miasto": "Lublin"
+    },
+    {
+      "id": "UNIGDA",
+      "nazwa": "Uniwersytet Gdański",
+      "miasto": "Gdańsk"
+    },
+    {
+      "id": "UNISWD",
+      "nazwa": "Uniwersytet Przyrodniczy",
+      "miasto": "Wrocław"
+    },
+    {
+      "id": "UNIOPL",
+      "nazwa": "Uniwersytet Opolski",
+      "miasto": "Opole"
+    },
+    {
+      "id": "UNICZE",
+      "nazwa": "Uniwersytet Humanistyczno-Przyrodniczy",
+      "miasto": "Częstochowa"
+    },
+    {
+      "id": "AWFPOZ",
+      "nazwa": "Akademia Wychowania Fizycznego",
+      "miasto": "Poznań"
+    },
+    {
+      "id": "UMLODZ",
+      "nazwa": "Uniwersytet Medyczny",
+      "miasto": "Łódź"
+    },
+    {
+      "id": "POLRZE",
+      "nazwa": "Politechnika Rzeszowska",
+      "miasto": "Rzeszów"
+    },
+    {
+      "id": "POLPOZ",
+      "nazwa": "Politechnika Poznańska",
+      "miasto": "Poznań"
+    },
+    {
+      "id": "ASTKRK",
+      "nazwa": "Akademia Sztuk Pięknych",
+      "miasto": "Kraków"
+    },
+    {
+      "id": "SGHMWZ",
+      "nazwa": "Szkoła Główna Handlowa",
+      "miasto": "Warszawa"
+    },
+    {
+      "id": "UMWROC",
+      "nazwa": "Uniwersytet Medyczny",
+      "miasto": "Wrocław"
+    },
+    {
+      "id": "POLKRK",
+      "nazwa": "Politechnika Krakowska",
+      "miasto": "Kraków"
+    },
+    {
+      "id": "UNISWE",
+      "nazwa": "Uniwersytet Szczeciński",
+      "miasto": "Szczecin"
+    },
+    {
+      "id": "POLWAR",
+      "nazwa": "Politechnika Warszawska",
+      "miasto": "Warszawa"
+    },
+    {
+      "id": "UMGDAN",
+      "nazwa": "Gdański Uniwersytet Medyczny",
+      "miasto": "Gdańsk"
+    },
+    {
+      "id": "UMKRAK",
+      "nazwa": "Uniwersytet Medyczny",
+      "miasto": "Kraków"
+    },
+    {
+      "id": "AMULOD",
+      "nazwa": "Akademia Muzyczna",
+      "miasto": "Łódź"
+    },
+    {
+      "id": "POLWRO",
+      "nazwa": "Politechnika Wrocławska",
+      "miasto": "Wrocław"
+    },
+    {
+      "id": "AWFGDA",
+      "nazwa": "Akademia Wychowania Fizycznego i Sportu",
+      "miasto": "Gdańsk"
+    },
+    {
+      "id": "UNILOD",
+      "nazwa": "Uniwersytet Łódzki",
+      "miasto": "Łódź"
+    },
+    {
+      "id": "UNIJAG",
+      "nazwa": "Uniwersytet Jagielloński",
+      "miasto": "Kraków"
+    },
+    {
+      "id": "AWFWRC",
+      "nazwa": "Akademia Wychowania Fizycznego",
+      "miasto": "Wrocław"
+    },
+    {
+      "id": "UNIRZS",
+      "nazwa": "Uniwersytet Rzeszowski",
+      "miasto": "Rzeszów"
+    },
+    {
+      "id": "AMUGDA",
+      "nazwa": "Akademia Muzyczna",
+      "miasto": "Gdańsk"
+    },
+    {
+      "id": "POLGDA",
+      "nazwa": "Politechnika Gdańska",
+      "miasto": "Gdańsk"
+    },
+    {
+      "id": "KULKAT",
+      "nazwa": "Katolicki Uniwersytet Lubelski",
+      "miasto": "Lublin"
+    },
+    {
+      "id": "UNISBC",
+      "nazwa": "Uniwersytet Zielonogórski",
+      "miasto": "Zielona Góra"
+    },
+    {
+      "id": "UNIEKO",
+      "nazwa": "Uniwersytet Ekonomiczny",
+      "miasto": "Kraków"
+    },
+    {
+      "id": "AMUWAW",
+      "nazwa": "Uniwersytet Muzyczny Fryderyka Chopina",
+      "miasto": "Warszawa"
+    },
+    {
+      "id": "POLLOD",
+      "nazwa": "Politechnika Łódzka",
+      "miasto": "Łódź"
+    },
+    {
+      "id": "ASTLOD",
+      "nazwa": "Akademia Sztuk Pięknych",
+      "miasto": "Łódź"
+    },
+    {
+      "id": "UNIWPR",
+      "nama": "Uniwersytet Warmińsko-Mazurski",
+      "miasto": "Olsztyn"
+    },
+    {
+      "id": "ASTWAR",
+      "nazwa": "Akademia Sztuk Pięknych",
+      "miasto": "Warszawa"
+    },
+    {
+      "id": "AWFKRK",
+      "nazwa": "Akademia Wychowania Fizycznego",
+      "miasto": "Kraków"
+    },
+    {
+      "id": "UMRTOR",
+      "nazwa": "Uniwersytet Mikołaja Kopernika",
+      "miasto": "Toruń"
+    },
+    {
+      "id": "UMPOZN",
+      "nazwa": "Uniwersytet Medyczny",
+      "miasto": "Poznań"
+    },
+    {
+      "id": "UNIKAT",
+      "nazwa": "Uniwersytet Śląski",
+      "miasto": "Katowice"
+    },
+    {
+      "id": "UNIBYA",
+      "nazwa": "Uniwersytet w Białymstoku",
+      "miasto": "Białystok"
+    }
+  ]
