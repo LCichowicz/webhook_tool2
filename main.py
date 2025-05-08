@@ -8,7 +8,7 @@ file_3 = '/data/uczelnie.json'
 app = FastAPI()
 
 
-@app.post('/tool2')
+@app.post('/')
 async def tool2(request: Request) -> dict:
     persons_df = pd.read_json(file_2)
     university_df = pd.read_json(file_3)
